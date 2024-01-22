@@ -1,10 +1,11 @@
-**# QuantAge Portfolio**
+# QuantAge Portfolio
+
 Stocks/ETFs/Crypto/Commodities and Derivatives Analysis
 
-**Project 1: Quantitative Analytics Project - Analyzing SPY since 1993**
+## Project 1: Quantitative Analytics Project - Analyzing SPY since 1993
 
-Description:
-The Quantitative Analytics Project is a comprehensive analysis of the SPY (S&P 500 ETF) spanning from 1993 to the present day, focusing on daily time frames. This project aims to provide valuable insights into the performance and behavior of SPY, aiding investors in making informed decisions and enhancing their understanding of the market.
+### Description:
+The Quantitative Analytics Project is a comprehensive analysis of the SPY (S&P 500 ETF) spanning from 1993 to the present day, focusing on daily time frames. This project aims to provide valuable insights into the performance and behavior of SPY, aiding ETF investors in making informed decisions and enhancing their understanding of the market.
 
 Key Features and Objectives:
 
